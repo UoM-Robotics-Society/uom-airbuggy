@@ -10,7 +10,7 @@ Two ways
 - 30 pounds battery
 - 40 pounds charger
 - 50 pounds : extra ( transmitter, joystick etc. )
-- 20 pounds : roll
+- 40 pounds : controller
 
 ## What it can do 
 - Radio-controlled quadcopter 
